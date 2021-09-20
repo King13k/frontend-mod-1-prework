@@ -42,7 +42,9 @@ Read the three blog posts that follow:
 * [Asking better questions](https://dev.to/josefine/asking-better-questions-2e2k)
 * [Your Questions Are Dumb; Ask Them Anyway](https://dev.to/kathryngrayson/your-questions-are-dumb-ask-them-anyway-3cm6)
 
-Reflect on these posts, and how you feel about asking questions (specifically, technical questions as you enter your technical work at Turing). How might this positively or negatively impact your growth? 
+Reflect on these posts, and how you feel about asking questions (specifically, technical questions as you enter your technical work at Turing). How might this positively or negatively impact your growth?
+
+- The 3 articles I read will make a positive impact on my growth at turing, because through this mod0 I have had momments where I probably should have asked a question instead googled my little heart away. After reading the blog post I now understand that questions aren't a bad thing but yiu should know how to articulate your problems better so the questions are more precise.
 
 It's going to take some time to find that balance between googling and pushing yourself to solve a problem without hand-holding, and reaching out for help. That's ok! be patient with yourself. The way you will find that balance is by being cognizant and aware of how you currently operate. Keep this on your mind as you work through this section, and... there is no time like the present to start asking questions!
 
@@ -75,7 +77,7 @@ Some data types also have functions which return a `true` or `false`, so they’
 
 ### If Statements
 
-📒 Read pages 148-149 and 160-163 from the `JAVASCRIPT & JQUERY: Interactive Front-End Web Development` book. If you are unsure of some vocabulary you encounter, refer to the [vocabulary list](#Vocabulary-From-Book) at the end of this README.
+📒 Read pages 148-149   and 160-163 from the `JAVASCRIPT & JQUERY: Interactive Front-End Web Development` book. If you are unsure of some vocabulary you encounter, refer to the [vocabulary list](#Vocabulary-From-Book) at the end of this README.
 
 In addition to **`if`** and **`else`**, **`else if`** can help us create more complex statements. `else if` statements execute a block of code when their condition **evaluates** to `true`. However, they must be chained to a previous `if` statement, like so:
 
