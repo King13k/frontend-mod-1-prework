@@ -40,3 +40,4 @@ function fizzBuzz(num1, num2, range) {
 
 fizzBuzz(3, 5, 100);
 fizzbuzz(5, 8, 400);
+//Didnt get to this part of final prep.
